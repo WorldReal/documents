@@ -1,7 +1,3 @@
-# documents
-组织文档
-
-
 # Documents
 
 ## This repository is in draft form and does not represent a final governance model for WorldReal
